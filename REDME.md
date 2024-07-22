@@ -2,3 +2,4 @@
 
 -Estado del proyecto en construcción
 
+```npm install react```
